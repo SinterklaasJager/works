@@ -1,0 +1,15 @@
+
+WortelWortel: 
+Opdracht maak een game in Unity. 
+Eerst groot project in Unity. Veel uit geleerd. UI, Controller input,Inheritance/klasse
+
+DNA Translatie:
+Opdracht: maak een VR-game over eiwitten.
+Eerste VR-project veel geleerd over gamedesign/development, maar ook UX in VR.
+
+Taak DEV 4:
+Klein Opdrachtje over functional Programming, Geen design, puur codeer werk.
+OPMERKING server werkt niet meer open in live preview.
+
+Mirror/Vuforia Prototype
+Een klein prototypje dat ik had gemaakt om vuforia/mirror te testen.

@@ -1,0 +1,41 @@
+{
+  "name": "dev4",
+  "version": "1.0.0",
+  "description": "Werkstuk voor development 4",
+  "main": "index.js",
+
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmcp/ehbdev4werkstuk.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Maarten Lauwaert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmcp/ehbdev4werkstuk/issues"
+  },
+  "homepage": "https://github.com/pmcp/ehbdev4werkstuk#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "jquery": "^3.5.1",
+    "node-fetch": "^2.6.0"
+  },
+  "jest": {
+    "verbose": true,
+    "setupFiles": ["./test-env.js"]
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/node": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-preset-env": "^1.7.0"
+  }
+}
